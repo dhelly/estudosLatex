@@ -6,7 +6,7 @@ Material de referência: [Site Latex-Tutorial](https://www.latex-tutorial.com/tu
 ## Estrutura básica do documento
 Layout básico para um documento Latex.
 
-[Estrutura básica do Projeto](./aula01.tex)
+[Estrutura básica do Projeto](aula01.tex)
 
 
 ## Seções e parágrafos

@@ -13,3 +13,14 @@ Layout básico para um documento Latex.
 Usando seções e parágrafos.
 
 [Estrutura básica do Projeto](Aula02.tex)
+
+
+## Pacotes
+Estendendo as funcionalidades por meio de pacote.
+
+[Estrutura básica do Projeto](Aula03.tex)
+
+## Equações e funções matemáticas
+funcionalidades básicas
+
+[Estrutura básica do Projeto](Aula04.tex)
